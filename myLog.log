@@ -1,0 +1,29 @@
+2020-03-16 09:39:56,835 ERROR __main__ timed out
+2020-03-18 07:42:09,015 ERROR __main__ timed out
+2020-03-18 07:42:10,091 ERROR __main__ timed out
+2020-03-18 07:51:02,164 ERROR __main__ timed out
+2020-03-18 07:51:03,240 ERROR __main__ timed out
+2020-03-18 07:51:34,143 ERROR __main__ timed out
+2020-03-18 07:51:35,220 ERROR __main__ timed out
+2020-06-05 09:02:10,092 ERROR __main__ [WinError 3] The system cannot find the path specified: 'U:\\'
+2020-07-17 08:47:51,424 ERROR __main__ [WinError 3] The system cannot find the path specified: 'U:\\'
+2020-07-17 08:47:57,836 ERROR __main__ [WinError 3] The system cannot find the path specified: 'U:\\'
+2020-07-17 08:58:18,465 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4832}
+2020-07-17 10:06:16,608 ERROR __main__ list indices must be integers or slices, not Text
+2020-07-17 10:06:23,284 ERROR __main__ list indices must be integers or slices, not Text
+2020-07-17 10:07:35,378 ERROR __main__ module 'PySimpleGUI' has no attribute 'Go'
+2020-07-17 10:07:52,289 ERROR __main__ list indices must be integers or slices, not Button
+2020-07-17 11:55:19,192 ERROR __main__ timed out
+2020-07-17 11:55:20,267 ERROR __main__ timed out
+2020-07-17 14:21:47,451 ERROR __main__ timed out
+2020-07-17 14:21:53,291 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4832}
+2020-07-17 14:21:53,335 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4832}
+2020-07-17 15:04:33,462 ERROR __main__ 'NoneType' object is not subscriptable
+2020-07-17 15:04:53,857 ERROR __main__ 'NoneType' object is not subscriptable
+2020-07-17 15:12:35,291 ERROR __main__ 'NoneType' object is not subscriptable
+2020-07-17 15:27:55,780 ERROR __main__ auto_load() takes 2 positional arguments but 3 were given
+2020-07-17 15:31:26,967 ERROR __main__ timed out
+2020-07-17 15:31:32,865 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4832}
+2020-07-17 15:31:32,897 ERROR __main__ {'title_re': '.*Change header*', 'backend': 'win32', 'process': 4832}
+2020-07-20 08:17:10,905 ERROR __main__ timed out
+2021-09-06 06:40:32,539 ERROR __main__ [WinError 3] The system cannot find the path specified: 'C:\\Program Files\\Scm Group\\Xilog Plus\\Job\\Alphacam\\'
